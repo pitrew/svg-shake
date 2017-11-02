@@ -1,0 +1,11 @@
+{
+  "name": "svg-shake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pitrew/svg-shake.git",
+  "author": "Piotr Wyrobek <piotr.wyrobek@williamhill.com>",
+  "license": "MIT",
+  "dependencies": {
+    "svgo": "^1.0.1"
+  }
+}
